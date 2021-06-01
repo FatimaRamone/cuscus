@@ -1,0 +1,1 @@
+{"words": [{"spanish": "hoja", "english": "sheet", "times": "Nebraska"}, {"spanish": "salado", "english": "salty", "times": "Nebraska"}]}
