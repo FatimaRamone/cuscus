@@ -10,6 +10,7 @@ app = Flask(__name__)
 
 app.config["SECRET_KEY"] = "-FCKQV8YGQF1xFX6Qf_TVw"
 
+# pipUn viejo dicho ruso lo advirtió: "El futuro es brillante, pero el pasado es impredecible"
 
 words = json.load(open ('words.json'))
 
