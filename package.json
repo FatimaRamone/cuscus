@@ -1,0 +1,15 @@
+{
+  "name": "cuscus",
+  "version": "1.0.0",
+  "description": "awesomeness in an app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/cuscus.git"
+  },
+  "author": "f",
+  "license": "ISC"
+}
