@@ -13,15 +13,13 @@
     "type": "git",
     "url": "https://git.heroku.com/cuscus.git"
   },
-  "dependencies": {
-    "express":"*",
-    "body-parser":"*",
-    "bcrypt": "^0.8.5"
- },
   "author": "f",
   "license": "ISC",
   "dependencies": {
     "create-index": "^2.6.0",
-    "mongodb": "^3.6.9"
+    "mongodb": "^3.6.9",
+    "express":"*",
+    "body-parser":"*",
+    "bcrypt": "^0.8.5"
   }
 }
