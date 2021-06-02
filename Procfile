@@ -1,1 +1,1 @@
-web: gunicorn app:cuscus
+web:node index.js
