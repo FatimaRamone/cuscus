@@ -1,3 +1,6 @@
+
+
+
 {
   "name": "cuscus",
   "version": "1.0.0",
@@ -10,6 +13,11 @@
     "type": "git",
     "url": "https://git.heroku.com/cuscus.git"
   },
+  "dependencies": {
+    "express":"*",
+    "body-parser":"*",
+    "bcrypt": "^0.8.5"
+ },
   "author": "f",
   "license": "ISC",
   "dependencies": {
