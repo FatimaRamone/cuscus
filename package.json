@@ -11,5 +11,8 @@
     "url": "https://git.heroku.com/cuscus.git"
   },
   "author": "f",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "create-index": "^2.6.0"
+  }
 }
